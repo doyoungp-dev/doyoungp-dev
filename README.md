@@ -1,6 +1,6 @@
 # Hi there
 
-Lead Data Scientist & Growth Engineer. I build and run data platforms on GCP and lead growth programs, using agentic workflows with Claude Code to deliver at team scale.
+Lead Data Scientist & Growth Engineer. I build and run data platforms on GCP and lead growth programs, using agentic workflows with Claude Code and Codex to deliver at team scale.
 
 Most of my professional work lives in private company repositories, so this profile shows only part of it; the account itself dates from 2026. What's public here are personal projects I've built for my wife and friends.
 
